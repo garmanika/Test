@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_180">
+			<rect id="bxl:telegram" rx="-0.500000" width="23.000000" height="23.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="bxl:telegram" rx="-0.500000" width="23.000000" height="23.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_180)">
+		<path id="Vector" d="M20.66 3.71L2.93 10.55C1.72 11.04 1.73 11.71 2.71 12.01L7.26 13.43L17.79 6.79C18.29 6.48 18.75 6.65 18.37 6.98L9.84 14.68L9.84 14.68L9.84 14.68L9.52 19.37C9.98 19.37 10.19 19.16 10.45 18.91L12.66 16.76L17.26 20.16C18.1 20.63 18.71 20.39 18.92 19.37L21.94 5.15C22.25 3.91 21.47 3.35 20.66 3.71Z" fill="#8D8D8D" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

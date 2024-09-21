@@ -1,0 +1,18 @@
+@media (max-width: 1479px) {}
+
+@media (max-width: 1199px) {
+    .promotions-items {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px;
+    }
+}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {
+    .promotions-items {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 575px) {}
